@@ -8,4 +8,6 @@ node {
     stage('Deploy') { 
         echo "Stage3"
     }
+    stage('Deploy s') { 
+        echo "Stage4"   
 }
